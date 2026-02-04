@@ -4,7 +4,7 @@ A high-performance, flashlight project. This design prioritizes cheap high power
 
 
 
-![Alt text](images/circuit.png)
+![Alt text](docs/circuit.png)
 
 
 ---
