@@ -1,4 +1,4 @@
-# 🔦 [Project Name]
+# 🔦 [Cheap Strong Flashlight]
 
 A high-performance, flashlight project. This design prioritizes cheap high power flashlight creation with a **single-layer PCB** layout, making it cost effective.
 
@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 🤝 Contributing
-Found a way to improve the thermal efficiency? Open an issue or submit a pull request!
+If you know best practices for thermal vias and stuff like that. Feel free to contact me, I want to learn how to do them.
